@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samue\\OneDrive\\\u00C1rea de Trabalho\\Atividades\\NotasAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C14A028-53E1-47B2-B733-1EE545B1CA15}|NotasAPI\\NotasAPI.csproj|c:\\users\\samue\\onedrive\\\u00E1rea de trabalho\\atividades\\notasapi\\notasapi\\models\\nota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C14A028-53E1-47B2-B733-1EE545B1CA15}|NotasAPI\\NotasAPI.csproj|solutionrelative:notasapi\\models\\nota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C14A028-53E1-47B2-B733-1EE545B1CA15}|NotasAPI\\NotasAPI.csproj|c:\\users\\samue\\onedrive\\\u00E1rea de trabalho\\atividades\\notasapi\\notasapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C14A028-53E1-47B2-B733-1EE545B1CA15}|NotasAPI\\NotasAPI.csproj|solutionrelative:notasapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C14A028-53E1-47B2-B733-1EE545B1CA15}|NotasAPI\\NotasAPI.csproj|c:\\users\\samue\\onedrive\\\u00E1rea de trabalho\\atividades\\notasapi\\notasapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C14A028-53E1-47B2-B733-1EE545B1CA15}|NotasAPI\\NotasAPI.csproj|solutionrelative:notasapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C14A028-53E1-47B2-B733-1EE545B1CA15}|NotasAPI\\NotasAPI.csproj|c:\\users\\samue\\onedrive\\\u00E1rea de trabalho\\atividades\\notasapi\\notasapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C14A028-53E1-47B2-B733-1EE545B1CA15}|NotasAPI\\NotasAPI.csproj|solutionrelative:notasapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C14A028-53E1-47B2-B733-1EE545B1CA15}|NotasAPI\\NotasAPI.csproj|c:\\users\\samue\\onedrive\\\u00E1rea de trabalho\\atividades\\notasapi\\notasapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C14A028-53E1-47B2-B733-1EE545B1CA15}|NotasAPI\\NotasAPI.csproj|solutionrelative:notasapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C14A028-53E1-47B2-B733-1EE545B1CA15}|NotasAPI\\NotasAPI.csproj|c:\\users\\samue\\onedrive\\\u00E1rea de trabalho\\atividades\\notasapi\\notasapi\\notasapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7C14A028-53E1-47B2-B733-1EE545B1CA15}|NotasAPI\\NotasAPI.csproj|solutionrelative:notasapi\\notasapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C14A028-53E1-47B2-B733-1EE545B1CA15}|NotasAPI\\NotasAPI.csproj|c:\\users\\samue\\onedrive\\\u00E1rea de trabalho\\atividades\\notasapi\\notasapi\\notasapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7C14A028-53E1-47B2-B733-1EE545B1CA15}|NotasAPI\\NotasAPI.csproj|solutionrelative:notasapi\\notasapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\\u00C1rea de Trabalho\\Atividades\\NotasAPI\\NotasAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "NotasAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\\u00C1rea de Trabalho\\Atividades\\NotasAPI\\NotasAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "NotasAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:54:05.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\\u00C1rea de Trabalho\\Atividades\\NotasAPI\\NotasAPI\\Program.cs",
+              "RelativeDocumentMoniker": "NotasAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\\u00C1rea de Trabalho\\Atividades\\NotasAPI\\NotasAPI\\Program.cs",
+              "RelativeToolTip": "NotasAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:52:03.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\\u00C1rea de Trabalho\\Atividades\\NotasAPI\\NotasAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "NotasAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\\u00C1rea de Trabalho\\Atividades\\NotasAPI\\NotasAPI\\appsettings.Development.json",
+              "RelativeToolTip": "NotasAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-26T23:08:38.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\\u00C1rea de Trabalho\\Atividades\\NotasAPI\\NotasAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "NotasAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\\u00C1rea de Trabalho\\Atividades\\NotasAPI\\NotasAPI\\appsettings.json",
+              "RelativeToolTip": "NotasAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-26T22:54:35.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Nota.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\\u00C1rea de Trabalho\\Atividades\\NotasAPI\\NotasAPI\\Models\\Nota.cs",
+              "RelativeDocumentMoniker": "NotasAPI\\Models\\Nota.cs",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\\u00C1rea de Trabalho\\Atividades\\NotasAPI\\NotasAPI\\Models\\Nota.cs",
+              "RelativeToolTip": "NotasAPI\\Models\\Nota.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:53:15.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotasAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\\u00C1rea de Trabalho\\Atividades\\NotasAPI\\NotasAPI\\NotasAPI.csproj",
+              "RelativeDocumentMoniker": "NotasAPI\\NotasAPI.csproj",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\\u00C1rea de Trabalho\\Atividades\\NotasAPI\\NotasAPI\\NotasAPI.csproj",
+              "RelativeToolTip": "NotasAPI\\NotasAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-26T23:25:36.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotasAPI",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\\u00C1rea de Trabalho\\Atividades\\NotasAPI\\NotasAPI\\NotasAPI.csproj",
+              "RelativeDocumentMoniker": "NotasAPI\\NotasAPI.csproj",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\\u00C1rea de Trabalho\\Atividades\\NotasAPI\\NotasAPI\\NotasAPI.csproj",
+              "RelativeToolTip": "NotasAPI\\NotasAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-26T23:25:50.898Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
